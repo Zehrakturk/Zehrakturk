@@ -15,6 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zehrakturk&theme=shades-of-purple&hide_border=false)<br/>
 
 
-
+![snake gif](https://github.com/Zehrakturk/Zehrakturk/blob/output/github-contribution-grid-snake.gif)
 ---
 
