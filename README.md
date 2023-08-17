@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=Zehrakturk&icon=5&color=6)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-💻 I'am a Computer Engineering student at Bursa Technical University in Turkey.<br>💬 You can reach me here : zehra.akturk15@gmail.com<br>
+<br>💬 You can reach me here : zehra.akturk15@gmail.com<br>
 
 
 ## 🌐 Socials:
