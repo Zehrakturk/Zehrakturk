@@ -18,6 +18,7 @@
 *  ![](https://github-readme-streak-stats.herokuapp.com/?user=Zehrakturk&theme=material-palenight&hide_border=false)<br/>
 
 
+![snake gif](https://github.com/Zehrakturk/Zehrakturk/blob/output/github-contribution-grid-snake.gif)
 ---
 
 
