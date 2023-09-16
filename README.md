@@ -17,8 +17,7 @@
 *  ![](https://github-readme-stats.vercel.app/api?username=Zehrakturk&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 *  ![](https://github-readme-streak-stats.herokuapp.com/?user=Zehrakturk&theme=material-palenight&hide_border=false)<br/>
 
-
-![GitHub Snake animation](dist/github-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 ---
 
 
